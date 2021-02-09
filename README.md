@@ -1,6 +1,6 @@
 # Shaky 🖱️
 
-Shaky is a simple python script that implements mouse jiggling based on [mouse](https://pypi.org/project/mouse/) Python library.
+Shaky is a simple python script that implements mouse jiggler based on [mouse](https://pypi.org/project/mouse/) Python library.
 
 ## Getting the code
 Download from repository:
