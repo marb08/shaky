@@ -30,11 +30,11 @@ Download from repository:
     usage: shaky.py [-h] [-d MINUTES]
 
     optional arguments:
-      -h, --help            Let's shake that mouse, default will jitter the mouse for an undefined amount of time
-      -d MINUTES, --duration MINUTES
-                            Set the duration of the Mouse jitter in minutes
+      -h, --help                            Show this help message and exit                            
+      -d MINUTES, --duration MINUTES        Set the duration of the Mouse jitter in minutes
+     
      $> python shaky.py -d 5
-     $> python shaky.py #Free mode
+     $> python shaky.py                     Default mode will jitter the mouse for an undefined amount of time until either Ctrl + C or mouse move is detected
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
