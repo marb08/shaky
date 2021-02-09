@@ -1,6 +1,6 @@
 # Shaky 🖱️
 
-Shaky is a python script to implement mouse jiggling based on WIN32 APIs.
+Shaky is a simple python script that implements mouse jiggling based on [mouse](https://pypi.org/project/mouse/ Python library.
 
 ## Getting the code
 Download from repository:
@@ -9,7 +9,6 @@ Download from repository:
     $ cd shaky/
 
 ## Usage
-
     =======================================================
     =======================================================
 
@@ -30,12 +29,12 @@ Download from repository:
     usage: shaky.py [-h] [-d MINUTES]
 
     optional arguments:
-      -h, --help                            Show this help message and exit                            
-      -d MINUTES, --duration MINUTES        Set the duration of the Mouse jitter in minutes
+      -h, --help                            Show this help message and exit.         
+      -d MINUTES, --duration MINUTES        Set the duration of the Mouse jitter in minutes.
      
-     $> python shaky.py -d 5
-     $> python shaky.py                     Default mode will jitter the mouse for an undefined amount of time until either Ctrl + C or mouse move is detected
-
+     $> python shaky.py                     Default mode, it will jitter the mouse for an undefined amount of time Ctrl + C or mouse move to exit.
+     $> python shaky.py -d 5                Timebased mode, the jitter will last for the indicated amount of time.
+     
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
