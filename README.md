@@ -1,5 +1,5 @@
 <a href="https://github.com/jacopomv/shaky/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/jacopomv/shaky?style=plastic"></a>
-[![Twitter](https://img.shields.io/twitter/url?label=Follow%20%40marb0x08&style=social&url=https%3A%2F%2Ftwitter.com%2Fmarb_0x08)](https://twitter.com/https://twitter.com/marb_0x08)
+[![Twitter](https://img.shields.io/twitter/url?label=Follow%20%40marb0x08&style=social&url=https%3A%2F%2Ftwitter.com%2Fmarb_0x08)](https://twitter.com/marb_0x08)
 
 # Shaky 🖱️
 
