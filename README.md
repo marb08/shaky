@@ -10,6 +10,10 @@ Download from repository:
 
     $ git clone https://github.com/jacopomv/shaky
     $ cd shaky/
+    
+### Install [mouse](https://pypi.org/project/mouse/) Python module
+
+    $ pip install mouse
 
 ## Usage
     =======================================================
