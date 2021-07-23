@@ -76,8 +76,10 @@ def free_mode():
 	try:
 		print("Currently in Free jittering mode, press Ctrl + C or move the mouse to exit ...")
 		while y_pos == y_begin_pos:
-			mouse.move(3,0,absolute=False, duration=0.1)
-			mouse.move(-3,0,absolute=False, duration=0.1)
+			mouse.move(8,0,absolute=False, duration=0.1)
+			mouse.move(0,9,absolute=False, duration=0.1)
+			mouse.move(-8,0,absolute=False, duration=0.1)
+			mouse.move(0,-9,absolute=False, duration=0.1)
 			y_pos=mouse.get_position()[1]
 
 			if int(((time.time()-t_f)/60) % 1) == 0:
