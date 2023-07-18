@@ -1,5 +1,5 @@
 <a href="https://github.com/jacopomv/shaky/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/jacopomv/shaky?style=plastic"></a>
-[![Twitter](https://img.shields.io/twitter/url?label=Follow%20%40marb08&style=social&url=https%3A%2F%2Ftwitter.com%2Fmarb0x08)](https://twitter.com/marb0x08)
+[![Twitter](https://img.shields.io/twitter/url?label=Follow%20%40marb08&style=social&url=https%3A%2F%2Ftwitter.com%2Fmarb0x08)](https://twitter.com/m4rbb)
 
 # Shaky 🖱️
 
@@ -44,3 +44,7 @@ Download from repository:
      
 ## Contributing
 Pull requests are welcome.
+
+## License
+This script is licensed under the GNU General Public License v3.0.
+For more information, please refer to the license text at: https://www.gnu.org/licenses/gpl-3.0.txt
