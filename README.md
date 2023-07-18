@@ -1,6 +1,3 @@
-<a href="https://github.com/jacopomv/shaky/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/jacopomv/shaky?style=plastic"></a>
-[![Twitter](https://img.shields.io/twitter/url?label=Follow%20%40marb08&style=social&url=https%3A%2F%2Ftwitter.com%2Fmarb0x08)](https://twitter.com/m4rbb)
-
 # Shaky 🖱️
 
 Shaky is a simple python script that implements mouse jiggler based on [mouse](https://pypi.org/project/mouse/) Python library.
@@ -8,7 +5,7 @@ Shaky is a simple python script that implements mouse jiggler based on [mouse](h
 ## Getting the code
 Download from repository:
 
-    $ git clone https://github.com/jacopomv/shaky
+    $ git clone https://github.com/marb08/shaky/
     $ cd shaky/
     
 ### Install [mouse](https://pypi.org/project/mouse/) Python module
